@@ -1,2 +1,2 @@
 # EditorButton
-![alt text](screenshots/example.png "Описание будет тут")
+![alt text](Screenshots/example.png "Описание будет тут")
